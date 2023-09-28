@@ -1,0 +1,36 @@
+body {
+    background-color: rgba(189, 189, 189, 0.637);
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    display: block;
+    margin-left: left;
+    margin-right: auto;
+    border: 3px solid #000;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Pixelify Sans', cursive;
+}
+
+h2{
+    font-family: 'Pixelify Sans', cursive;
+}
+
+h3 {
+    font-family: 'Pixelify Sans', cursive;
+}
+
+p {
+    font-family: 'Pixelify Sans', cursive;
+}
+
+ul {
+    font-family: 'Pixelify Sans', cursive;
+}
